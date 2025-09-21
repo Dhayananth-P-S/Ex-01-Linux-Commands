@@ -1,7 +1,7 @@
 
 # Ex-01-Linux-Commands
-Name:  Rajalakshmi R
-Reg No : 212223110037
+# Name:  Dhayananth.P.S
+# Reg No : 212223040039
 
 ## Aim:
 
